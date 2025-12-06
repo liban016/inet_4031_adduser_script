@@ -1,7 +1,7 @@
 #!/usr/bin/pyton3
 
-# INET4031 - Automated User Creation Script
-# Author: Anas Liban
+# INET4031 
+#Anas Liban
 # Date Created: December 5th, 2025
 # Last Modified: December 5th, 2025
 
