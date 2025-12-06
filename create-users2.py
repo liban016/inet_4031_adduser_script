@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
-# INET4031 - Automated User Creation Script (with Dry-Run option)
-# Author: Anas Liban
+# INET4031
+# Anas Liban
 
 import os
 import re
